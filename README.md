@@ -1,7 +1,8 @@
 
 **About me**
 
-- 💼 Senior Software Engineer and Co-Founder at [Prometheus Labs](https://www.prometheuslabs.app/)
+- 💼 Senior Software Engineer at REDACTED
+
 
 **Coding Challenges**
 - [Shopify](https://github.com/Shopify/eng-intern-assessment-data/pull/4)
